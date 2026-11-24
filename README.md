@@ -1,8 +1,8 @@
 # One Letter for Your Day
 
-![make.fun bounty](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36.svg)
-![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/vinzagent/u-puan-one-letter-for-your-day-e54e9c36-entry/rank.svg)
-![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/vinzagent/u-puan-one-letter-for-your-day-e54e9c36-entry/reward.svg)
+[![make.fun · u-puan-one-letter-for-your-day-e54e9c36](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/vinzagent/u-puan-one-letter-for-your-day-e54e9c36-entry/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/vinzagent/u-puan-one-letter-for-your-day-e54e9c36-entry/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 
 An entry for the make.fun bounty "One Letter for Your Day". Running
 `main.py` writes exactly one character -- a letter from A to Z, and
